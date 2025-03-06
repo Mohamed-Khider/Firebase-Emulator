@@ -14,6 +14,7 @@ installation:
 
     
 2- open terminal on the root of the repo and install Firebase CLI
+    
     $ npm install -g firebase-tools
 
     
@@ -27,11 +28,16 @@ installation:
 
           
 5- cd to functions folder and install depen...
+
+
     $ npm install
 
+
+
 6- now go back to the root and run the emulator 
+   
     $ firebase emulators:start --import=./seed
 
     
-    Once you see the All emulators started message, the app is ready to use. now open the browser on the port showing on terminal you will see firebase emulator suit UI
+Once you see the All emulators started message, the app is ready to use. now open the browser on the port showing on terminal you will see firebase emulator suit UI
   
