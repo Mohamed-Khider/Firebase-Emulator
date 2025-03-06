@@ -8,7 +8,8 @@ requirment :
 
 installation:
 1- clone the repo int your local machine.
-
+    https://github.com/Mohamed-Khider/Firebase-Emulator.git
+    
 2- open terminal on the root of the repo and install Firebase CLI
     $ npm install -g firebase-tools
     
