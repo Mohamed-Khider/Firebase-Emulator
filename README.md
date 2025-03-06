@@ -3,10 +3,12 @@ Learn how to develop a web app with the Firebase Emulator Suite.
 how to use this repo?
 
 requirment :
+
   1-node js 18 or later
   2-java 17 or later
 
 installation:
+
 1- clone the repo int your local machine.
     https://github.com/Mohamed-Khider/Firebase-Emulator.git
     
